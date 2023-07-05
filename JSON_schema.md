@@ -8,3 +8,17 @@ JSON Schema is a contract for your JSON document that defines the expected data 
 Using JSON Schema to construct a model of your API response makes it easier to validate your API is returning the data is should.
 Monitor your API responses, ensuring they adhere to a specified format.
 Get alerted when breaking changes occur.
+
+example is a JSON string:
+
+``
+{"name":"John", "age":30, "car":null}
+``
+
+It defines an object with 3 properties:
+
+- name
+- age
+- car
+- 
+Each property has a value.
