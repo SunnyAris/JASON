@@ -57,6 +57,7 @@ JSON makes it possible to store JavaScript objects as text.
 
 Example
 Storing data in local storage
+
 ```
 <!DOCTYPE html>
 <html>
@@ -131,7 +132,6 @@ document.getElementById("demo").innerHTML = myJSON;
  ### If you convert your functions into strings before running the `JSON.stringify()` function it will not remove key and the value
 
 ```
-
 <!DOCTYPE html>
 <html>
 <body>
