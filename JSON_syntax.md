@@ -33,3 +33,45 @@ In JavaScript values can be all of the above, plus any other valid JavaScript ex
 - a function
 - a date
 - undefined
+
+Strings in JSON must be written in double quotes.
+```
+{"name":"John"}
+```
+
+Numbers in JSON must be an integer or a floating point.
+```
+
+{"age":30}
+```
+JSON object 
+
+```
+{
+"employee":{"name":"John", "age":30, "city":"New York"}
+}
+```
+JSON arrays
+
+```
+{
+"employees":["John", "Anna", "Peter"]
+}
+
+```
+
+JSON can be true/false.
+
+```
+{"sale":true}
+```
+
+JSON null
+```
+
+{"middlename":null}
+```
+
+
+
+
