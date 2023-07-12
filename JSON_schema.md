@@ -20,5 +20,5 @@ It defines an object with 3 properties:
 - name
 - age
 - car
-- 
+
 Each property has a value.
