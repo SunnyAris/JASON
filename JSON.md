@@ -3,7 +3,7 @@ Parsing JSON
 ```
 '{"name":"John", "age":30, "city":"New York"}'
 ```
-Use the JavaScript function JSON.parse() to convert text into a JavaScript object:
+Use the JavaScript function `JSON.parse()`to convert text into a JavaScript object:
 ```
 const obj = JSON.parse('{"name":"John", "age":30, "city":"New York"}');
 ```
