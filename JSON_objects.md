@@ -50,7 +50,6 @@ document.getElementById("demo").innerHTML = myObj.name;
 
 </body>
 </html>
-
 ```
 
 Normally, you create a JavaScript object by parsing a JSON string:
@@ -97,7 +96,6 @@ const myObj = JSON.parse(myJSON);
 x = myObj["name"];
 ```
 ```
-
 <!DOCTYPE html>
 <html>
 <body>
@@ -169,10 +167,8 @@ document.getElementById("demo").innerHTML = text;
 ```
 
 ```
-
 Looping JavaScript Object Values
 John, 30, null,
-
 ```
 
 
