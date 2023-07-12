@@ -23,14 +23,12 @@ document.getElementById("demo").innerHTML = obj.name + ", " + obj.age;
 
 </body>
 </html>
-
 ```
 
 Parsing a JSON Array.
 
 
 ```
-
 <html>
 <body>
 
@@ -46,14 +44,12 @@ document.getElementById("demo").innerHTML = myArr[0];
 
 </body>
 </html>
-
 ```
 ### Date objects are not allowed in JSON.
 
 If you need to include a date, write it as a string.
 
 ```
-
 <html>
 <body>
 
