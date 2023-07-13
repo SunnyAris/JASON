@@ -22,3 +22,6 @@ It defines an object with 3 properties:
 - car
 
 Each property has a value.
+
+Test JSON shema postman 
+https://www.youtube.com/watch?v=X072eKtOIio&list=PL2s60vWOK2i5CYZnmu9bx6wTsTDHfjy_C&index=46&t=13s
