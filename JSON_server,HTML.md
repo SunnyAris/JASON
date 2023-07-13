@@ -151,6 +151,7 @@ xmlhttp.send("x=" + dbParam);
 </body>
 </html>
 ```
+![img_5.png](img_5.png)
 ### Dynamic HTML Table
 Make the HTML table based on the value of a drop down menu
 ```
@@ -191,7 +192,7 @@ function change_myselect(sel) {
 </body>
 </html>
 ```
-
+![img_6.png](img_6.png)
 ### HTML Drop Down List
 Make an HTML drop down list with data received as JSON
 ```
@@ -222,3 +223,4 @@ xmlhttp.send("x=" + dbParam);
 </body>
 </html>
 ```
+![img_7.png](img_7.png)

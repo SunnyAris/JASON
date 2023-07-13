@@ -137,10 +137,7 @@ document.getElementById("demo").innerHTML = text;
 </body>
 </html>
 ```
-```
-Looping Object Properties
-name, age, car,
-```
+![img_2.png](img_2.png)
 
 #### In a for-in loop, use the bracket notation to access the property values:
 ```
@@ -166,10 +163,7 @@ document.getElementById("demo").innerHTML = text;
 </html>
 ```
 
-```
-Looping JavaScript Object Values
-John, 30, null,
-```
+![img_3.png](img_3.png)
 
 
 

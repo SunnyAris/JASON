@@ -16,7 +16,7 @@ In JavaScript, array values can be all of the above, plus any other valid JavaSc
 
 ### JavaScript Arrays
 
-You can create a JavaScript array from a literal:
+#### You can create a JavaScript array from a literal:
 
 ```
 myArray = ["Ford", "BMW", "Fiat"];
@@ -36,12 +36,8 @@ document.getElementById("demo").innerHTML = myArray;
 </body>
 </html>
 ```
-```
-Creating an Array from a Literal
-
-Ford,BMW,Fiat
-```
-You can create a JavaScript array by parsing a JSON string:
+![img.png](img.png)
+#### You can create a JavaScript array by parsing a JSON string:
 
 ```
 myJSON = '["Ford", "BMW", "Fiat"]';
@@ -72,6 +68,8 @@ document.getElementById("demo").innerHTML = myArray[0];
 </body>
 </html>
 ```
+![img_1.png](img_1.png)
+
  You access array values by index:
 
 ```
